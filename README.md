@@ -63,6 +63,6 @@ Then open `Face_Similarity_GestaltConcept.ipynb` and run all cells.
 This project is inspired by the GestaltMatcher database and face similarity research.
 
 ## 🤖 Author
-This project was developed by Abdullah Mehmood as part of a Data Mining course.
+This project was developed by Abdullah Mehmood as part of AI course.
 
 ---
