@@ -46,6 +46,7 @@ pip install -r requirements.txt
 Make sure your environment is active and JupyterLab is launched:
 
 ```bash
+conda create --name ai_project
 conda activate ai_project
 jupyter lab
 ```
@@ -60,5 +61,8 @@ Then open `Face_Similarity_GestaltConcept.ipynb` and run all cells.
 ## 🧠 Based On
 
 This project is inspired by the GestaltMatcher database and face similarity research.
+
+## 🤖 Author
+This project was developed by Abdullah Mehmood as part of a Data Mining course.
 
 ---
